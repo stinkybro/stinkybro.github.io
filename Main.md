@@ -13,4 +13,6 @@ To start off with editing, open the template.lua file we downloaded earlier and 
     DESCRIPTION = "Description for my mod menu."; -- <--Feel free to type in anything in here`
 Here, we can change the main information about our script. First up, lets change the menu version AKA "MENU_VERSION". `MENU_VERSION = "1.0.0"; -- Set this to your desired, example: "ver 1.0" or "Version 69420 funny" it can any way of string` Set it's value to whatever you would like.
 
-Second, change the author to your liking aswell. And third, same with the description, change it to whatever you like
+Second, change the author to your liking aswell. `AUTHOR = "Author"; -- Set this to your name or whatever you want`
+
+And third, same with the description, `DESCRIPTION = "Description for my mod menu."; -- <--Feel free to type in anything in here` change it to whatever you like.
